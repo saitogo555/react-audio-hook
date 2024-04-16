@@ -1,6 +1,6 @@
 # react-audio-hook
 
-This package is react hook for controlling sound easrly.
+This package is react hook for controlling audio easrly.
 
 It's a very lightweight library.
 
