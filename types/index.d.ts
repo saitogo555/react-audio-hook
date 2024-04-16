@@ -7,4 +7,5 @@ export type AudioContext = {
 export type AudioOptions = {
   volume?: number,
   loop?: boolean,
+  speed?: number
 }

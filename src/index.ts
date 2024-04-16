@@ -9,6 +9,7 @@ export const useAudio = (src: string, options?: AudioOptions): AudioContext => {
       const audio = new Audio(src)
       audio.volume = options?.volume || 1
       audio.loop = options?.loop || false
+      audio.playbackRate = options?.speed || 1
       return audio
     } 
     return
