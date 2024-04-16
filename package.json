@@ -12,6 +12,10 @@
   },
   "author": "go saito",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saitogo555/react-audio-hook.git"
+  },
   "dependencies": {
     "react": "^18.2.0"
   },
