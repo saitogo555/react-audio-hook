@@ -1,0 +1,21 @@
+{
+  "name": "react-audio-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "author": "go saito",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.78",
+    "typescript": "^5.4.5"
+  }
+}
