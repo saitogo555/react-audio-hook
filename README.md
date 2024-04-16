@@ -68,6 +68,8 @@ This function is the basic function for controlling audio and provides all metho
 
   - ``loop`` : boolean - if true, audio is loop.
 
+  - ``speed`` : number - playback speed.
+
 ---
 
 ### play() => void
